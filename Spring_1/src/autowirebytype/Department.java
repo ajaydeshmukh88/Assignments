@@ -52,6 +52,8 @@ public class Department {
 		System.out.println("Department " +Dno);
 		System.out.println("Dep Name"+name); 
 		System.out.println("Category "+ct.getName());
+		
+		System.out.println("JJJJJJ  KKKK");
 	}
 	
 	
