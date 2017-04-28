@@ -13,6 +13,7 @@ public class Test {
 	 Resource resource=new ClassPathResource("applicationContext.xml");  
 	 BeanFactory factory = new XmlBeanFactory(resource); 
 	 Student std = (Student)factory.getBean("studentbean");
+	 System.out.println("TESTTTTTTTTTTTTTTT");
 	 std.display();
 	}
 
