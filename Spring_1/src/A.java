@@ -17,7 +17,7 @@ public class A {
 
 		System.out.println("=====This is merge conflict======");
 		System.out.println("=====This is merge conflict======");
-		
+              	System.out.println("satish rathore");	
 
 
 	}
