@@ -4,9 +4,17 @@ public class A {
 	public void m(){
 		i+=i;
 		System.out.println(i);
+<<<<<<< HEAD
 		System.out.println("i did some changed");
 		System.out.println("satish rathore");
 System.out.println("i did some changed");
+		System.out.println("satish rathore");
+
+
+		System.out.println("i did some cnanged");
+
+		System.out.println("=====This is merge conflict======");
+
 		System.out.println("satish rathore");
 
 
