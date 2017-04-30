@@ -25,5 +25,6 @@ public class A {
 		System.out.println(i);
 		A a= new A();
 		a.m();
+		System.out.println("satshed changed");
 	}
 }
