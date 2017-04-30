@@ -5,7 +5,11 @@ public class A {
 		i+=i;
 		System.out.println(i);
 		System.out.println("i did some cnanged");
+
 		System.out.println("=====This is merge conflict======");
+
+		System.out.println("satish rathore");
+
 	}
 	public static void main(String[] args) {
 		System.out.println(i);
