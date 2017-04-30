@@ -21,8 +21,7 @@ public class A {
 
 		System.out.println("satish rathore");
 		System.out.println("=====Going to show the pop function======");
-
-
+                System.out.println("some changed are done");
 	}
 	public static void main(String[] args) {
 		System.out.println(i);
