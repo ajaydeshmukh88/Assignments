@@ -20,6 +20,7 @@ public class A {
 		
 
 		System.out.println("satish rathore");
+		System.out.println("=====Going to show the pop function======");
 
 
 	}
