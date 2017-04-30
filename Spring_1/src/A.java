@@ -16,7 +16,7 @@ public class A {
 		System.out.println("i did some cnanged");
 
 		System.out.println("=====This is merge conflict======");
-		
+		System.out.println("=====This is merge conflict======");
 		
 
 
