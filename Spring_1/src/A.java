@@ -5,20 +5,7 @@ public class A {
 		i+=i;
 		System.out.println(i);
 
-		System.out.println("i did some changed");
-		
-		System.out.println("satish rathore");
-		
-		System.out.println("i did some changed");
-		System.out.println("satish rathore");
-
-
-		System.out.println("i did some cnanged");
-
-		System.out.println("=====This is merge conflict======");
-		System.out.println("=====This is merge conflict======");
-              	System.out.println("satish rathore");	
-		System.out.println("i did some changed");
+			System.out.println("i did some changed");
 
 
 	}
