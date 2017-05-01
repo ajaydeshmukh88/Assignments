@@ -6,7 +6,7 @@ public class A {
 		System.out.println(i);
 
 			System.out.println("i did some changed");
-
+ System.out.println("I add something");
 
 	}
 	public static void main(String[] args) {
