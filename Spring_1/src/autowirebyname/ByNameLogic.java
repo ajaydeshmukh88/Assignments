@@ -15,6 +15,9 @@ public class ByNameLogic {
 		 Address ad = (Address )factory.getBean("id1");
 		
 		 ad.display();
+		 
+		 
+		 System.out.println("Wel Come user");
 
 	}
 
