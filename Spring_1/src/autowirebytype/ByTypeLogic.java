@@ -15,7 +15,7 @@ public class ByTypeLogic {
 				 Resource resource=new ClassPathResource("applicationContextByType.xml");  
 				 BeanFactory factory = new XmlBeanFactory(resource); 
 				 Department dt = (Department)factory.getBean("id1");
-				
+			    System.out.println("HELLO");
 				 dt.show();
 
 
